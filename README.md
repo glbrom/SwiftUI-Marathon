@@ -7,3 +7,7 @@
 > Week 2. Days 26-31: Expanding your skills and creating 2 apps
 
 <img src="https://github.com/glbrom/SwiftUI-Marathon/blob/bbb26f544c8b66446c5936d129d4d507dc4ef820/Assets/Week%202/BetterRest.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/bbb26f544c8b66446c5936d129d4d507dc4ef820/Assets/Week%202/WordScramble.png" width="190">
+
+> Week 3. Days 32-42: Scaling up to bigger apps
+
+<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/76e3a111cfd0d2c33d34678660ac5c996e21b755/Assets/Week%203/Guess%20the%20Flag.gif" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
