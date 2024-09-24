@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    // MARK: - Properties
     @State private var countries = ["Estonia", "France", "Germany", "Ireland", "Italy", "Nigeria", "Poland", "Spain", "UK", "Ukraine", "US"].shuffled()
     @State private var correctAnswer = Int.random(in: 0...2)
     @State private var userScore = 0
@@ -15,6 +16,10 @@ struct ContentView: View {
     @State private var showingScore = false
     @State private var scoreTitle = ""
     
+    @State private var showFlagAnimations = [Bool](repeating: false, count: 3)
+    @State private var flagsNotChosen = [Bool](repeating: false, count: 3)
+    
+    // MARK: - Body
     var body: some View {
         ZStack {
             RadialGradient(stops: [
@@ -43,7 +48,7 @@ struct ContentView: View {
                         Button {
                             flagTapped(number)
                         } label: {
-                            FlagImage(flagImage: countries[number])
+                            FlagImage(showAnimation: $showFlagAnimations[number], isNotChosen: $flagsNotChosen[number], flagImage: countries[number])
                         }
                     }
                 }
@@ -78,7 +83,11 @@ struct ContentView: View {
         }
     }
     
+    // MARK: - Methods
     func flagTapped(_ number: Int) {
+        changeFlagOpacity(tappedFlagIndex: number)
+        showFlagAnimations[number].toggle()
+        
         if number == correctAnswer {
             scoreTitle = "Correct! That's the flag of \(countries[number])"
             userScore += 1
@@ -89,7 +98,15 @@ struct ContentView: View {
         showingScore = true
     }
     
+    func changeFlagOpacity(tappedFlagIndex: Int) {
+        for index in 0..<flagsNotChosen.count {
+            // Set the flag to true, if the index does not match the selected one
+            flagsNotChosen[index] = index != tappedFlagIndex
+        }
+    }
+    
     func askQuestion() {
+        flagsNotChosen = [Bool](repeating: false, count: 3)
         countries.shuffle()
         correctAnswer = Int.random(in: 0...2)
         questionCount += 1
@@ -100,21 +117,27 @@ struct ContentView: View {
         correctAnswer = Int.random(in: 0...2)
         userScore = 0
         questionCount = 1
+        flagsNotChosen = [Bool](repeating: false, count: 3)
     }
 }
 
-// MARK: - Custom ImageView using specific set of modifiers
+// MARK: - Custom ImageView using specific set of modifiers + animation
 struct FlagImage: View {
+    @Binding var showAnimation: Bool
+    @Binding var isNotChosen: Bool
     let flagImage: String
-    
-    init(flagImage: String) {
-        self.flagImage = flagImage
-    }
     
     var body: some View {
         Image(flagImage)
             .clipShape(.rect(cornerRadius: 20))
             .shadow(radius: 10)
+            .opacity(isNotChosen ? 0.25 : 1)
+            .scaleEffect(isNotChosen ? 0.8 : 1)
+            .blur(radius: isNotChosen ? 4 : 0)
+        //            .rotation3DEffect(.degrees(isNotChosen ? 360 : 0), axis: (x: 0, y: 1, z: 0))
+            .rotation3DEffect(.degrees(showAnimation ? 360 : 0), axis: (x: 0, y: 1, z: 0))
+            .animation(.spring(duration: 2, bounce: 0.5), value: showAnimation)
+            .animation(.default, value: isNotChosen)
     }
 }
 
