@@ -8,3 +8,8 @@
 - [x] When you tap a flag, make it spin around 360 degrees on the Y axis.
 - [x] Make the other two buttons fade out to 25% opacity.
 - [x] Add a third effect of your choosing to the two flags the user didn’t choose – maybe make them scale down? Experiment!
+
+### Challenge iExpense
+- [x] Use the user’s preferred currency, rather than always using US dollars.
+- [x] Modify the expense amounts in ContentView to contain some styling depending on their value – expenses under $10 should have one style, expenses under $100 another, and expenses over $100 a third style. What those styles are depend on you.
+- [x] For a bigger challenge, try splitting the expenses list into two sections: one for personal expenses, and one for business expenses.
