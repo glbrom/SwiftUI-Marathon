@@ -13,3 +13,8 @@
 - [x] Use the user’s preferred currency, rather than always using US dollars.
 - [x] Modify the expense amounts in ContentView to contain some styling depending on their value – expenses under $10 should have one style, expenses under $100 another, and expenses over $100 a third style. What those styles are depend on you.
 - [x] For a bigger challenge, try splitting the expenses list into two sections: one for personal expenses, and one for business expenses.
+
+### Challenge Moonshot
+- [x] Add the launch date to MissionView, below the mission badge.
+- [x] Extract one or two pieces of view code into their own new SwiftUI views – the horizontal scroll view in MissionView is a great candidate.
+- [x] For a tough challenge, add a toolbar item to ContentView that toggles between showing missions as a grid and as a list.
