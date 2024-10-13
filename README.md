@@ -11,3 +11,17 @@
 > Week 3. Days 32-42: Scaling up to bigger apps
 
 <img src="https://github.com/glbrom/SwiftUI-Marathon/blob/76e3a111cfd0d2c33d34678660ac5c996e21b755/Assets/Week%203/Guess%20the%20Flag.gif" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/ee472d69e826dbfbf024b54df1650199fa1e930f/Assets/Week%203/MathTime.gif" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/ee472d69e826dbfbf024b54df1650199fa1e930f/Assets/Week%203/iExpense.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/ee472d69e826dbfbf024b54df1650199fa1e930f/Assets/Week%203/Moonshot.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+> Week 4. TicTacToe team project
+
+<img src="https://github.com/user-attachments/assets/48340cbc-3a82-43a6-a521-b8bf48d43600" width="820">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+> Week 5. Days 43-52: Focus on data
+
+<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/ee472d69e826dbfbf024b54df1650199fa1e930f/Assets/Week%203/Moonshot.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+> Week 6. Days 62-73: Filters, maps, and more
+
+<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/ee472d69e826dbfbf024b54df1650199fa1e930f/Assets/Week%203/Moonshot.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+> Week 7. 
