@@ -18,7 +18,9 @@
 
 > Week 5. Days 43-52: Focus on data
 
-<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/ee472d69e826dbfbf024b54df1650199fa1e930f/Assets/Week%203/Moonshot.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/fd721e825f11d29d10a14ddbfe75d99689ad250f/Assets/Week%205/HabitTracking.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/fd721e825f11d29d10a14ddbfe75d99689ad250f/Assets/Week%205/CupcakeCorner.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 > Week 6. Days 62-73: Filters, maps, and more
 
