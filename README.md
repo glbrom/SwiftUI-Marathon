@@ -31,3 +31,6 @@
 <img src="https://github.com/glbrom/glbrom/blob/58f6090d274533d9a5df0d189f9839957c6f2987/images/NewsToDay.png" width="820">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 > Week 9. Day 62-73: Filters, maps, and more
+
+<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/c20b7fe1e4f79f6685df70be09e233a371818b72/Assets/Week%209/Bucketlist.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/c20b7fe1e4f79f6685df70be09e233a371818b72/Assets/Week%209/Instafilter.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
