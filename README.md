@@ -26,4 +26,8 @@
 
 <img src="https://github.com/glbrom/SwiftUI-Marathon/blob/ee472d69e826dbfbf024b54df1650199fa1e930f/Assets/Week%203/Moonshot.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-> Week 7. Days 62-73: Filters, maps, and more
+> Week 7-8. NewsToDay team project
+
+<img src="https://github.com/glbrom/glbrom/blob/58f6090d274533d9a5df0d189f9839957c6f2987/images/NewsToDay.png" width="820">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+> Week 9. Day 62-73: Filters, maps, and more
