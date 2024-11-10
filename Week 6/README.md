@@ -1,9 +1,8 @@
 # SwiftUI-Marathon
 
-> Week 5. Days 43-52: Scaling up to bigger apps and focus on data
+> Week 6. Days 49-59: Focus on data
 
-<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/fd721e825f11d29d10a14ddbfe75d99689ad250f/Assets/Week%205/HabitTracking.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/83cb9459d690723cb5c86d5774f7df8513c0b523/Assets/Week%205/CupcakeCorner.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Challenge Habit Tracking
 - [x] This time your goal is to build a habit-tracking app, for folks who want to keep track of how much they do certain things. That might be learning a language, practicing an instrument, exercising, or whatever – they get to decide which activities they add, and track it however they want.
