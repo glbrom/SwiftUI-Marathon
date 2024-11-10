@@ -1,8 +1,9 @@
 # SwiftUI-Marathon
 
-> Week 9. Day 62-76: Filters, maps, and more
+> Week 9. Day 62-73: Filters, maps, and more
 
-<img src="" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/c20b7fe1e4f79f6685df70be09e233a371818b72/Assets/Week%209/Instafilter.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/c20b7fe1e4f79f6685df70be09e233a371818b72/Assets/Week%209/Bucketlist.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Challenge Instafilter
 - [x] Try making the Slider and Change Filter buttons disabled if there is no image selected.
