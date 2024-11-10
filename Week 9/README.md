@@ -2,7 +2,7 @@
 
 > Week 9. Day 62-76: Filters, maps, and more
 
-<img src="https://github.com/glbrom/SwiftUI-Marathon/blob/ee472d69e826dbfbf024b54df1650199fa1e930f/Assets/Week%203/Moonshot.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Challenge Instafilter
 - [x] Try making the Slider and Change Filter buttons disabled if there is no image selected.
