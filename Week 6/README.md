@@ -1,6 +1,6 @@
 # SwiftUI-Marathon
 
-> Week 6. Days 49-59: Focus on data
+> Week 6. Days 53-61: Focus on data
 
 <img src="" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
