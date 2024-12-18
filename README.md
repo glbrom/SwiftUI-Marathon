@@ -34,3 +34,7 @@
 
 <img src="https://github.com/glbrom/SwiftUI-Marathon/blob/c20b7fe1e4f79f6685df70be09e233a371818b72/Assets/Week%209/Bucketlist.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/glbrom/SwiftUI-Marathon/blob/c20b7fe1e4f79f6685df70be09e233a371818b72/Assets/Week%209/Instafilter.png" width="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+> Week 10-11. EventHub team project
+
+<img src="https://github.com/glbrom/glbrom/blob/96e7f2762f10a9e6497ed7e2efe8980882f42d4a/images/EventHubPreview.png" width="820">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
